@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "topic": "5 accounting terms",
+    "cover": {"hook": "5 accounting words every business owner must know", "sub": "Swipe to learn them in 60 seconds"},
+    "slides": [
+      {"title": "1. Revenue", "body": "All the money from sales, before any costs are taken out."},
+      {"title": "2. Gross profit", "body": "Revenue minus the direct cost of the goods or services you sold."},
+      {"title": "3. Net profit", "body": "What is left after every expense: rent, salaries, interest and tax."},
+      {"title": "4. Working capital", "body": "Current assets minus current liabilities. Shows if you can pay the next few months' bills."},
+      {"title": "5. Depreciation", "body": "Spreading the cost of an asset, like a machine or laptop, over the years you use it."}
+    ],
+    "caption": "5 accounting words every business owner should understand before talking to their CA.\n\nRevenue, gross profit, net profit, working capital and depreciation, explained simply.\n\nSave this for later. Which term should we explain next?",
+    "hashtags": "#Accounting #AccountingBasics #SmallBusinessIndia #FinanceTips #NetProfit #WorkingCapital #ProacctIndia"
+  },
+  {
+    "id": 2,
+    "topic": "Profit vs cash flow",
+    "cover": {"hook": "Your business made a profit. So why is the bank account empty?", "sub": "Profit and cash are not the same"},
+    "slides": [
+      {"title": "Profit is on paper", "body": "Your books record a sale the day you invoice, even if the customer hasn't paid."},
+      {"title": "Cash is in the bank", "body": "Salaries, rent and GST are paid from cash, not from profit."},
+      {"title": "Example", "body": "You sell ₹5 lakh this month, but customers pay in 90 days. Profit today, cash in 3 months."},
+      {"title": "Fix 1: Collect faster", "body": "Shorter credit terms, advance payments, and polite reminders before the due date."},
+      {"title": "Fix 2: Keep a buffer", "body": "Hold at least 3 months of fixed expenses as a cash reserve."}
+    ],
+    "caption": "Most small businesses don't shut down from losses. They shut down because they run out of cash.\n\nTrack cash, not just profit.\n\nSave this and share it with a founder. How many days do your customers take to pay?",
+    "hashtags": "#CashFlow #BusinessFinance #Entrepreneur #MSME #WorkingCapital #StartupIndia #ProacctIndia"
+  },
+  {
+    "id": 3,
+    "topic": "50-30-20 budget rule",
+    "cover": {"hook": "Salary gone by the 20th? Try this one rule.", "sub": "The 50-30-20 budget"},
+    "slides": [
+      {"title": "50% Needs", "body": "Rent, EMIs, groceries, school fees, electricity and other bills you can't skip."},
+      {"title": "30% Wants", "body": "Eating out, shopping, subscriptions and trips."},
+      {"title": "20% Savings", "body": "Emergency fund and long-term goals. Move it out on salary day, before spending."},
+      {"title": "Example: ₹40,000 salary", "body": "₹20,000 needs\n₹12,000 wants\n₹8,000 savings"},
+      {"title": "Adjust it", "body": "If needs are above 50%, cut wants first. The savings part is the one to protect."}
+    ],
+    "caption": "A simple way to stop running out of money before month-end.\n\n50% needs, 30% wants, 20% savings. Pay yourself first.\n\nSave this for your next salary day.",
+    "hashtags": "#PersonalFinance #BudgetingTips #MoneyManagement #SavingMoney #SalaryIndia #FinancialLiteracy #ProacctIndia"
+  },
+  {
+    "id": 4,
+    "topic": "Delegation mistakes",
+    "cover": {"hook": "You're not busy because of work. You're busy because you don't delegate.", "sub": "3 delegation mistakes"},
+    "slides": [
+      {"title": "Mistake 1: No reason", "body": "Giving the task without the why. People do better work when they know what it is for."},
+      {"title": "Mistake 2: No deadline", "body": "\"When you get time\" usually means never. Give a date."},
+      {"title": "Mistake 3: Taking it back", "body": "Grabbing the task the first time it goes wrong. Coach once, then let them own it."},
+      {"title": "The 80% rule", "body": "If someone can do it 80% as well as you, hand it over."},
+      {"title": "Start today", "body": "List 3 tasks you do every week that someone else could do."}
+    ],
+    "caption": "Growing a business means doing less of it yourself.\n\nGive the reason, give a deadline, and let them own it.\n\nTag a business owner who does everything alone.",
+    "hashtags": "#BusinessManagement #Leadership #Delegation #Entrepreneurship #SmallBusinessTips #ManagementTips #ProacctIndia"
+  },
+  {
+    "id": 5,
+    "topic": "GST input tax credit mistakes",
+    "cover": {"hook": "You may be losing GST credit you already paid for", "sub": "4 common ITC mistakes"},
+    "slides": [
+      {"title": "1. Not checking GSTR-2B", "body": "If your supplier hasn't filed, the credit may not appear. Reconcile every month."},
+      {"title": "2. Paying suppliers late", "body": "If you don't pay the supplier within 180 days of the invoice, the credit must be reversed."},
+      {"title": "3. Blocked credits", "body": "Some items are blocked, like food and most personal motor vehicles. Check before claiming."},
+      {"title": "4. Wrong GSTIN", "body": "A typo in your GSTIN on the purchase invoice can cost you the credit."},
+      {"title": "The fix", "body": "Monthly GSTR-2B reconciliation, before you file GSTR-3B."}
+    ],
+    "caption": "Input tax credit is money. These 4 mistakes quietly take it away.\n\nReconcile with GSTR-2B every month before filing GSTR-3B.\n\nSave this. Which mistake have you seen most?",
+    "hashtags": "#GST #InputTaxCredit #ITC #GSTR2B #GSTIndia #TaxTips #ProacctIndia"
+  },
+  {
+    "id": 6,
+    "topic": "Emergency fund",
+    "cover": {"hook": "No emergency fund? One hospital bill can wipe out years of savings.", "sub": "How to build one"},
+    "slides": [
+      {"title": "How much?", "body": "At least 6 months of essential expenses. Self-employed? Aim for 9 to 12."},
+      {"title": "Example", "body": "Monthly needs of ₹30,000 means an emergency fund of ₹1.8 lakh."},
+      {"title": "Where to keep it", "body": "Somewhere safe and quick to withdraw, not in shares. Liquidity matters more than returns."},
+      {"title": "How to build it", "body": "Start small. Even ₹2,000 a month on autopay adds up."},
+      {"title": "Only for emergencies", "body": "Job loss, medical costs, urgent repairs. Not sales or holidays."}
+    ],
+    "caption": "An emergency fund is the base of every financial plan.\n\nAim for 6 months of essential expenses, kept safe and easy to access.\n\nSave this. How many months do you have covered?",
+    "hashtags": "#EmergencyFund #PersonalFinance #FinancialPlanning #MoneyTips #SavingsIndia #FinancialFreedom #ProacctIndia"
+  },
+  {
+    "id": 7,
+    "topic": "Balance sheet in 60 seconds",
+    "cover": {"hook": "Read a balance sheet in 60 seconds", "sub": "One equation explains it all"},
+    "slides": [
+      {"title": "The equation", "body": "Assets = Liabilities + Equity"},
+      {"title": "Assets", "body": "What the business owns: cash, stock, debtors, machines, property."},
+      {"title": "Liabilities", "body": "What the business owes: loans, creditors, taxes payable."},
+      {"title": "Equity", "body": "What belongs to the owners: capital put in plus profits kept in the business."},
+      {"title": "Quick check", "body": "Compare current assets with current liabilities. More assets means you can pay short-term bills."}
+    ],
+    "caption": "The balance sheet is a snapshot of what a business owns and owes on one date.\n\nAssets = Liabilities + Equity. Always.\n\nSave this for your next accounts class or board meeting.",
+    "hashtags": "#BalanceSheet #Accounting #FinancialStatements #CAStudents #CommerceStudents #FinanceBasics #ProacctIndia"
+  },
+  {
+    "id": 8,
+    "topic": "P&L vs balance sheet",
+    "cover": {"hook": "P&L vs balance sheet: what's the difference?", "sub": "Most beginners mix these up"},
+    "slides": [
+      {"title": "Profit & Loss", "body": "Shows performance over a period. Did you earn more than you spent this year?"},
+      {"title": "Balance sheet", "body": "Shows position on one date. What do you own and owe today?"},
+      {"title": "Think of it like this", "body": "P&L is a video of the year. The balance sheet is a photo of the last day."},
+      {"title": "How they connect", "body": "Net profit from the P&L adds to equity on the balance sheet."},
+      {"title": "Read both", "body": "A profitable P&L with a weak balance sheet can still mean trouble."}
+    ],
+    "caption": "P&L is a video of the year. The balance sheet is a photo of one day.\n\nYou need both to understand a business.\n\nShare this with a commerce student.",
+    "hashtags": "#ProfitAndLoss #BalanceSheet #AccountingBasics #CAStudents #FinancialLiteracy #BusinessFinance #ProacctIndia"
+  },
+  {
+    "id": 9,
+    "topic": "Golden rules of accounting",
+    "cover": {"hook": "The 3 golden rules of accounting", "sub": "Debit and credit made simple"},
+    "slides": [
+      {"title": "Personal account", "body": "Debit the receiver.\nCredit the giver."},
+      {"title": "Real account", "body": "Debit what comes in.\nCredit what goes out."},
+      {"title": "Nominal account", "body": "Debit all expenses and losses.\nCredit all incomes and gains."},
+      {"title": "Example: rent paid ₹10,000", "body": "Debit Rent (expense)\nCredit Cash (goes out)"},
+      {"title": "Practise", "body": "Write 5 entries from your own spending this week using these rules."}
+    ],
+    "caption": "Every journal entry follows these 3 golden rules.\n\nLearn them once and debit and credit stop being confusing.\n\nSave this for exam revision.",
+    "hashtags": "#GoldenRulesOfAccounting #JournalEntry #DebitCredit #CommerceStudents #CAFoundation #AccountingBasics #ProacctIndia"
+  },
+  {
+    "id": 10,
+    "topic": "GST invoice must-haves",
+    "cover": {"hook": "Is your GST invoice missing something?", "sub": "Details a tax invoice should carry"},
+    "slides": [
+      {"title": "Supplier details", "body": "Name, address and GSTIN of the seller."},
+      {"title": "Invoice basics", "body": "A unique serial number and the date of issue."},
+      {"title": "Buyer details", "body": "Name, address and GSTIN of the buyer if registered, and place of supply."},
+      {"title": "Item details", "body": "Description, HSN or SAC code, quantity, value and discount."},
+      {"title": "Tax details", "body": "Rate and amount of CGST, SGST or IGST shown separately, plus signature."}
+    ],
+    "caption": "A wrong invoice can cost your customer their input tax credit, and cost you the customer.\n\nCheck your template against this list.\n\nSave it and share it with your billing team.",
+    "hashtags": "#GSTInvoice #GST #GSTIndia #SmallBusinessIndia #Billing #TaxCompliance #ProacctIndia"
+  },
+  {
+    "id": 11,
+    "topic": "Break-even point",
+    "cover": {"hook": "How many units must you sell before you make a profit?", "sub": "Break-even point, explained"},
+    "slides": [
+      {"title": "The formula", "body": "Break-even units = Fixed costs ÷ (Price - Variable cost per unit)"},
+      {"title": "Fixed costs", "body": "Costs that stay the same each month: rent, salaries, loan EMIs."},
+      {"title": "Variable costs", "body": "Costs per unit sold: raw material, packing, delivery."},
+      {"title": "Example", "body": "Fixed ₹1,00,000. Price ₹500. Variable ₹300.\n₹1,00,000 ÷ ₹200 = 500 units."},
+      {"title": "Use it", "body": "Before raising rent or hiring, check how many extra units you'd need to sell."}
+    ],
+    "caption": "Every business should know its break-even number.\n\nFixed costs ÷ contribution per unit.\n\nSave this. Do you know your break-even point?",
+    "hashtags": "#BreakEven #CostAccounting #BusinessFinance #SmallBusinessTips #Entrepreneur #MSME #ProacctIndia"
+  },
+  {
+    "id": 12,
+    "topic": "5 financial ratios",
+    "cover": {"hook": "5 ratios that show if a business is healthy", "sub": "Check yours today"},
+    "slides": [
+      {"title": "Current ratio", "body": "Current assets ÷ current liabilities. Can you pay short-term bills?"},
+      {"title": "Quick ratio", "body": "Same, but without stock. A stricter test of cash strength."},
+      {"title": "Debt to equity", "body": "Total debt ÷ owners' equity. How much of the business runs on loans?"},
+      {"title": "Net profit margin", "body": "Net profit ÷ revenue × 100. How much you keep from every ₹100 of sales."},
+      {"title": "Return on capital", "body": "Operating profit ÷ capital employed. Is the money in the business working hard?"}
+    ],
+    "caption": "Numbers tell you how a business is really doing.\n\nStart with these 5 ratios and track them every quarter.\n\nSave this. Which ratio do you check most?",
+    "hashtags": "#FinancialRatios #RatioAnalysis #BusinessFinance #CAStudents #FinancialAnalysis #MSME #ProacctIndia"
+  },
+  {
+    "id": 13,
+    "topic": "Credit score tips",
+    "cover": {"hook": "Want a better credit score? Start with these 5 habits.", "sub": "It affects every loan you take"},
+    "slides": [
+      {"title": "1. Pay on time", "body": "Even one missed EMI or card payment can pull your score down."},
+      {"title": "2. Use under 30%", "body": "Keep card spending below 30% of your credit limit."},
+      {"title": "3. Don't apply too often", "body": "Many loan or card applications in a short time can hurt your score."},
+      {"title": "4. Keep old cards", "body": "A long credit history helps. Think before closing your oldest card."},
+      {"title": "5. Check your report", "body": "Check your credit report at least once a year and dispute any errors."}
+    ],
+    "caption": "A good credit score can mean lower interest on your home loan, car loan or business loan.\n\nPay on time and keep usage low.\n\nSave this and share it with someone planning a loan.",
+    "hashtags": "#CreditScore #CIBIL #PersonalFinance #LoanTips #MoneyTips #FinancialLiteracy #ProacctIndia"
+  },
+  {
+    "id": 14,
+    "topic": "Pricing mistakes",
+    "cover": {"hook": "Are you underpricing without knowing it?", "sub": "4 pricing mistakes small businesses make"},
+    "slides": [
+      {"title": "1. Forgetting overheads", "body": "Rent, salaries and electricity must be in your price, not just material cost."},
+      {"title": "2. Copying competitors", "body": "Their costs and quality are not yours. Start from your own numbers."},
+      {"title": "3. Ignoring your time", "body": "If you work in the business, pay yourself in the price."},
+      {"title": "4. Never raising prices", "body": "Costs rise every year. Review prices at least once a year."},
+      {"title": "Quick check", "body": "Price - all costs per unit = real profit per unit. Is it enough?"}
+    ],
+    "caption": "Busy all month but no profit? Your pricing could be the reason.\n\nPrice from your full costs, not from your competitor.\n\nSave this. When did you last raise your prices?",
+    "hashtags": "#PricingStrategy #SmallBusinessIndia #BusinessTips #Entrepreneur #ProfitMargin #MSME #ProacctIndia"
+  },
+  {
+    "id": 15,
+    "topic": "Separate business and personal money",
+    "cover": {"hook": "Still using one bank account for business and home?", "sub": "Why you should separate them"},
+    "slides": [
+      {"title": "Clear profit", "body": "Mixed accounts hide how much the business really earns."},
+      {"title": "Easier tax filing", "body": "Your CA spends less time sorting entries, and you pay less for it."},
+      {"title": "Loans get easier", "body": "Banks prefer clean business statements when you apply for credit."},
+      {"title": "Pay yourself a salary", "body": "Transfer a fixed amount to your personal account each month."},
+      {"title": "Start this week", "body": "Open a current account and run every business receipt and payment through it."}
+    ],
+    "caption": "The simplest accounting habit with the biggest payoff: keep business and personal money apart.\n\nOne account for the business, a fixed salary for you.\n\nShare this with a business owner who mixes them.",
+    "hashtags": "#SmallBusinessTips #Bookkeeping #BusinessFinance #Entrepreneur #MSME #AccountingTips #ProacctIndia"
+  },
+  {
+    "id": 16,
+    "topic": "15-minute team meeting",
+    "cover": {"hook": "Long meetings, no results? Try the 15-minute format.", "sub": "Run a daily team huddle"},
+    "slides": [
+      {"title": "Same time daily", "body": "Pick a fixed time and keep it to 15 minutes. Standing helps."},
+      {"title": "3 questions each", "body": "What did you finish? What's next? What is blocking you?"},
+      {"title": "Solve later", "body": "Note problems in the meeting. Fix them after, with only the people involved."},
+      {"title": "One number", "body": "Share one key number each day: sales, collections or orders."},
+      {"title": "End on time", "body": "Short meetings that end on time get people to show up."}
+    ],
+    "caption": "Good meetings are short, focused and end on time.\n\nThree questions per person, 15 minutes, every day.\n\nSave this and try it with your team tomorrow.",
+    "hashtags": "#BusinessManagement #TeamManagement #Leadership #Productivity #ManagementTips #Entrepreneur #ProacctIndia"
+  },
+  {
+    "id": 17,
+    "topic": "Weekly bookkeeping checklist",
+    "cover": {"hook": "30 minutes a week keeps your books clean", "sub": "A weekly bookkeeping checklist"},
+    "slides": [
+      {"title": "1. Record every bill", "body": "Enter all sales and purchase invoices from the week."},
+      {"title": "2. Match the bank", "body": "Tick off each bank entry against your books."},
+      {"title": "3. Chase payments", "body": "List customers whose payment is overdue and follow up."},
+      {"title": "4. Plan payments", "body": "Note bills due next week so nothing is late."},
+      {"title": "5. File the papers", "body": "Store receipts and invoices in one folder, digital or physical."}
+    ],
+    "caption": "Small weekly habits beat a big mess at year-end.\n\nRecord, reconcile, chase, plan and file.\n\nSave this checklist and set a weekly reminder.",
+    "hashtags": "#Bookkeeping #AccountingTips #SmallBusinessIndia #Accountant #MSME #BusinessHabits #ProacctIndia"
+  },
+  {
+    "id": 18,
+    "topic": "FIFO vs weighted average",
+    "cover": {"hook": "FIFO or weighted average? How to value your stock", "sub": "Inventory valuation basics"},
+    "slides": [
+      {"title": "FIFO", "body": "First In, First Out. The oldest stock is treated as sold first."},
+      {"title": "Weighted average", "body": "Each unit is valued at the average cost of all units held."},
+      {"title": "Example", "body": "Bought 10 at ₹100 and 10 at ₹120. Sold 10.\nFIFO cost: ₹1,000\nAverage cost: ₹1,100"},
+      {"title": "When prices rise", "body": "FIFO shows a higher closing stock and higher profit than average cost."},
+      {"title": "Stay consistent", "body": "Pick one method and use it every year so results can be compared."}
+    ],
+    "caption": "The way you value stock changes your profit.\n\nFIFO vs weighted average, with a simple example.\n\nSave this for your accounts revision.",
+    "hashtags": "#InventoryValuation #FIFO #CostAccounting #CAStudents #CommerceStudents #Accounting #ProacctIndia"
+  },
+  {
+    "id": 19,
+    "topic": "Cash vs accrual accounting",
+    "cover": {"hook": "Cash basis vs accrual basis: which one shows the truth?", "sub": "Two ways to record income"},
+    "slides": [
+      {"title": "Cash basis", "body": "Record income when money is received and expenses when paid."},
+      {"title": "Accrual basis", "body": "Record income when earned and expenses when incurred, whatever the payment date."},
+      {"title": "Example", "body": "You finish a ₹50,000 job in March and get paid in April. Accrual: March. Cash: April."},
+      {"title": "Which is better?", "body": "Accrual shows the true picture of a period. Companies in India must follow it."},
+      {"title": "Tip", "body": "Even small businesses should track unpaid bills and invoices to see the real position."}
+    ],
+    "caption": "When did you earn it, and when did you get paid? The answer changes your profit.\n\nCash vs accrual, explained with one example.\n\nSave this and share it with a commerce student.",
+    "hashtags": "#AccrualAccounting #CashBasis #AccountingBasics #CAStudents #FinancialLiteracy #Accounting #ProacctIndia"
+  },
+  {
+    "id": 20,
+    "topic": "Rule of 72",
+    "cover": {"hook": "How long will it take to double your money?", "sub": "The Rule of 72"},
+    "slides": [
+      {"title": "The rule", "body": "Years to double = 72 ÷ yearly return rate"},
+      {"title": "At 6%", "body": "72 ÷ 6 = about 12 years to double."},
+      {"title": "At 12%", "body": "72 ÷ 12 = about 6 years to double."},
+      {"title": "It works for debt too", "body": "A loan at 24% interest can double what you owe in about 3 years if unpaid."},
+      {"title": "The lesson", "body": "Start early and avoid high-interest debt. Time does the heavy lifting."}
+    ],
+    "caption": "A simple shortcut to see the power of compounding.\n\nDivide 72 by the interest rate to find the years to double.\n\nSave this. It also shows how fast credit card debt grows.",
+    "hashtags": "#RuleOf72 #CompoundInterest #PersonalFinance #MoneyTips #FinancialLiteracy #InvestingBasics #ProacctIndia"
+  },
+  {
+    "id": 21,
+    "topic": "Reduce receivable days",
+    "cover": {"hook": "Customers paying late? 5 ways to get paid faster.", "sub": "Collect your money on time"},
+    "slides": [
+      {"title": "1. Clear terms", "body": "Write the due date on every invoice, not just \"30 days\"."},
+      {"title": "2. Invoice the same day", "body": "Every day you delay the invoice delays the payment."},
+      {"title": "3. Remind before the due date", "body": "A polite message 3 days before works better than chasing after."},
+      {"title": "4. Easy payment", "body": "Add UPI and bank details on the invoice so paying takes one minute."},
+      {"title": "5. Small advance", "body": "For new or slow customers, ask for part payment upfront."}
+    ],
+    "caption": "Your sales are only real when the money is in your bank.\n\nClear terms, quick invoices and early reminders.\n\nSave this. How long do your customers usually take to pay?",
+    "hashtags": "#CashFlow #Receivables #SmallBusinessTips #MSME #BusinessFinance #Entrepreneur #ProacctIndia"
+  },
+  {
+    "id": 22,
+    "topic": "SMART goals",
+    "cover": {"hook": "\"Grow the business\" is not a goal.", "sub": "Set SMART goals instead"},
+    "slides": [
+      {"title": "Specific", "body": "Say exactly what. \"Increase monthly sales\", not \"do better\"."},
+      {"title": "Measurable", "body": "Put a number on it. From ₹5 lakh to ₹6 lakh a month."},
+      {"title": "Achievable", "body": "Stretch, but stay realistic for your team and budget."},
+      {"title": "Relevant", "body": "It should matter to where the business is going."},
+      {"title": "Time-bound", "body": "Set a date. \"By 31 March\" turns a wish into a plan."}
+    ],
+    "caption": "Vague goals give vague results.\n\nSpecific, measurable, achievable, relevant and time-bound.\n\nWrite one SMART goal for your business in the comments.",
+    "hashtags": "#SMARTGoals #BusinessManagement #GoalSetting #Leadership #Entrepreneur #BusinessGrowth #ProacctIndia"
+  },
+  {
+    "id": 23,
+    "topic": "Bank reconciliation",
+    "cover": {"hook": "Your books and bank don't match? Here's why.", "sub": "Bank reconciliation in 5 steps"},
+    "slides": [
+      {"title": "1. Start with balances", "body": "Note the closing balance in your books and on the bank statement."},
+      {"title": "2. Cheques not cleared", "body": "Cheques you issued that the bank hasn't paid yet."},
+      {"title": "3. Deposits in transit", "body": "Money you recorded that hasn't reached the bank yet."},
+      {"title": "4. Bank-only entries", "body": "Charges, interest and direct credits you haven't recorded."},
+      {"title": "5. Adjust and match", "body": "Record the missing entries. Both balances should now agree."}
+    ],
+    "caption": "Bank reconciliation catches errors, missing entries and even fraud.\n\nDo it every month, not once a year.\n\nSave this for your next month-end close.",
+    "hashtags": "#BankReconciliation #BRS #Accounting #Bookkeeping #CAStudents #Accountant #ProacctIndia"
+  },
+  {
+    "id": 24,
+    "topic": "Fixed vs variable costs",
+    "cover": {"hook": "Fixed cost or variable cost? Know the difference.", "sub": "It changes how you plan"},
+    "slides": [
+      {"title": "Fixed costs", "body": "Stay the same whatever you sell: rent, salaries, insurance."},
+      {"title": "Variable costs", "body": "Rise with every unit sold: material, packing, delivery, commission."},
+      {"title": "Why it matters", "body": "High fixed costs mean a quiet month hurts more."},
+      {"title": "Example", "body": "Rent ₹40,000 is paid whether you sell 10 units or 1,000."},
+      {"title": "Smart move", "body": "Where you can, turn fixed costs into variable ones, like paying commission instead of salary."}
+    ],
+    "caption": "Knowing which costs are fixed and which are variable helps you price, plan and survive slow months.\n\nSave this and sort your own costs this week.",
+    "hashtags": "#CostAccounting #FixedCost #VariableCost #BusinessFinance #MSME #SmallBusinessTips #ProacctIndia"
+  },
+  {
+    "id": 25,
+    "topic": "CAC and lifetime value",
+    "cover": {"hook": "How much does it cost you to win one customer?", "sub": "CAC vs lifetime value"},
+    "slides": [
+      {"title": "CAC", "body": "Customer acquisition cost = sales and marketing spend ÷ new customers."},
+      {"title": "LTV", "body": "Lifetime value = average profit per customer over the whole relationship."},
+      {"title": "Example", "body": "Spend ₹50,000 to win 100 customers. CAC = ₹500."},
+      {"title": "The test", "body": "If LTV is less than CAC, every new customer loses you money."},
+      {"title": "Improve it", "body": "Bring customers back with repeat offers. Repeat sales raise LTV."}
+    ],
+    "caption": "Growth only works when each customer is worth more than it costs to win them.\n\nTrack CAC and LTV together.\n\nSave this. Do you know your CAC?",
+    "hashtags": "#CAC #LTV #BusinessGrowth #Marketing #StartupIndia #Entrepreneur #ProacctIndia"
+  },
+  {
+    "id": 26,
+    "topic": "Petty cash control",
+    "cover": {"hook": "Small cash leaks add up to big losses", "sub": "5 petty cash rules"},
+    "slides": [
+      {"title": "1. Fixed float", "body": "Keep a set amount, like ₹5,000, and top it up only to that level."},
+      {"title": "2. A voucher for everything", "body": "Every payment needs a voucher and a bill, signed by the person paid."},
+      {"title": "3. One custodian", "body": "Only one person handles the cash box."},
+      {"title": "4. Count weekly", "body": "Cash in hand + vouchers should always equal the float."},
+      {"title": "5. Set a limit", "body": "Anything above a fixed amount should be paid by bank or UPI."}
+    ],
+    "caption": "Petty cash is where small leaks start.\n\nA fixed float, vouchers for everything and weekly counts keep it under control.\n\nShare this with your office manager.",
+    "hashtags": "#PettyCash #InternalControl #Accounting #SmallBusinessIndia #OfficeManagement #Bookkeeping #ProacctIndia"
+  },
+  {
+    "id": 27,
+    "topic": "Eisenhower matrix",
+    "cover": {"hook": "Busy all day, nothing important done?", "sub": "Sort tasks with the Eisenhower matrix"},
+    "slides": [
+      {"title": "Urgent + Important", "body": "Do it now. Deadlines, crises, a key client issue."},
+      {"title": "Important, not urgent", "body": "Schedule it. Planning, learning, building systems. This is where growth happens."},
+      {"title": "Urgent, not important", "body": "Delegate it. Most calls, routine requests and some emails."},
+      {"title": "Neither", "body": "Drop it. Endless scrolling and unnecessary meetings."},
+      {"title": "Daily habit", "body": "Spend the first hour on one important, not urgent task."}
+    ],
+    "caption": "Not everything urgent is important.\n\nDo, schedule, delegate or drop.\n\nSave this and sort tomorrow's to-do list with it.",
+    "hashtags": "#TimeManagement #Productivity #EisenhowerMatrix #Leadership #BusinessManagement #Entrepreneur #ProacctIndia"
+  },
+  {
+    "id": 28,
+    "topic": "Margin vs markup",
+    "cover": {"hook": "A 25% markup is not a 25% margin", "sub": "Margin vs markup, explained"},
+    "slides": [
+      {"title": "Markup", "body": "Profit as a % of cost.\n(Price - Cost) ÷ Cost"},
+      {"title": "Margin", "body": "Profit as a % of selling price.\n(Price - Cost) ÷ Price"},
+      {"title": "Example", "body": "Cost ₹100, price ₹125.\nMarkup = 25%\nMargin = 20%"},
+      {"title": "Why it matters", "body": "Plan for a 25% margin but add a 25% markup, and you earn less than you planned."},
+      {"title": "Quick rule", "body": "For a 25% margin, mark up by about 33%."}
+    ],
+    "caption": "Mixing up margin and markup is one of the most common pricing errors.\n\nMarkup is on cost. Margin is on price.\n\nSave this and share it with your sales team.",
+    "hashtags": "#ProfitMargin #Markup #PricingStrategy #BusinessFinance #SmallBusinessTips #Retail #ProacctIndia"
+  },
+  {
+    "id": 29,
+    "topic": "Monthly MIS report",
+    "cover": {"hook": "Do you know your numbers before the month ends?", "sub": "A simple monthly MIS report"},
+    "slides": [
+      {"title": "1. Sales", "body": "This month vs last month vs target."},
+      {"title": "2. Gross margin", "body": "Are you keeping the same share of each sale?"},
+      {"title": "3. Expenses", "body": "Top 5 expenses and any jump over last month."},
+      {"title": "4. Cash position", "body": "Bank balance, money to collect and bills to pay."},
+      {"title": "5. One action", "body": "End every report with one decision for next month."}
+    ],
+    "caption": "Big companies run on monthly reports. Small businesses can too.\n\nSales, margin, expenses, cash and one action.\n\nSave this template for your next month-end.",
+    "hashtags": "#MISReport #BusinessManagement #FinancialReporting #MSME #CFO #BusinessFinance #ProacctIndia"
+  },
+  {
+    "id": 30,
+    "topic": "Reading financial statements",
+    "cover": {"hook": "How to read any company's financials in 5 steps", "sub": "A beginner's order"},
+    "slides": [
+      {"title": "1. Revenue trend", "body": "Are sales growing year after year?"},
+      {"title": "2. Profit margin", "body": "Is the business keeping more or less of each ₹100 of sales?"},
+      {"title": "3. Debt", "body": "Check borrowings on the balance sheet. Rising fast is a warning sign."},
+      {"title": "4. Cash from operations", "body": "Profit should turn into cash. If it doesn't, ask why."},
+      {"title": "5. Notes to accounts", "body": "The details and surprises are often hidden here."}
+    ],
+    "caption": "Financial statements tell a story if you read them in the right order.\n\nRevenue, margin, debt, cash flow, then the notes.\n\nThis is for learning, not a buy or sell call. Save it for later.",
+    "hashtags": "#FinancialStatements #FinancialAnalysis #AccountingBasics #CAStudents #FinancialLiteracy #CommerceStudents #ProacctIndia"
+  }
+]
