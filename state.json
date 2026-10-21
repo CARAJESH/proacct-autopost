@@ -1,5 +1,5 @@
 {
-  "next": 2,
+  "next": 3,
   "history": [
     {
       "post": 1,
@@ -7,6 +7,13 @@
       "media_id": "17879273037635588",
       "permalink": "https://www.instagram.com/p/DeuKNpulvdy/",
       "at": "2026-10-20T15:31:06+00:00"
+    },
+    {
+      "post": 2,
+      "topic": "Profit vs cash flow",
+      "media_id": "18079742447389545",
+      "permalink": "https://www.instagram.com/p/DexBGwKo5L2/",
+      "at": "2026-10-21T18:09:21+00:00"
     }
   ]
 }
