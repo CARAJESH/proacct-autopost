@@ -1,5 +1,5 @@
 {
-  "next": 3,
+  "next": 4,
   "history": [
     {
       "post": 1,
@@ -14,6 +14,13 @@
       "media_id": "18079742447389545",
       "permalink": "https://www.instagram.com/p/DexBGwKo5L2/",
       "at": "2026-10-21T18:09:21+00:00"
+    },
+    {
+      "post": 3,
+      "topic": "50-30-20 budget rule",
+      "media_id": "18028210169700504",
+      "permalink": "https://www.instagram.com/p/DezlTXdlBN6/",
+      "at": "2026-10-22T18:04:04+00:00"
     }
   ]
 }
