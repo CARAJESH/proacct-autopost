@@ -1,5 +1,5 @@
 {
-  "next": 4,
+  "next": 5,
   "history": [
     {
       "post": 1,
@@ -21,6 +21,13 @@
       "media_id": "18028210169700504",
       "permalink": "https://www.instagram.com/p/DezlTXdlBN6/",
       "at": "2026-10-22T18:04:04+00:00"
+    },
+    {
+      "post": 4,
+      "topic": "Delegation mistakes",
+      "media_id": "18075357236724336",
+      "permalink": "https://www.instagram.com/p/De2JJuAlhLe/",
+      "at": "2026-10-23T17:55:46+00:00"
     }
   ]
 }
