@@ -1,5 +1,5 @@
 {
-  "next": 7,
+  "next": 8,
   "history": [
     {
       "post": 1,
@@ -42,6 +42,13 @@
       "media_id": "18124835167928481",
       "permalink": "https://www.instagram.com/p/De7NPxLESC3/",
       "at": "2026-10-25T17:07:37+00:00"
+    },
+    {
+      "post": 7,
+      "topic": "Balance sheet in 60 seconds",
+      "media_id": "18096290414451174",
+      "permalink": "https://www.instagram.com/p/De-B1p_j7nS/",
+      "at": "2026-10-26T19:25:37+00:00"
     }
   ]
 }
