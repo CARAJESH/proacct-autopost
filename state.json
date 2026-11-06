@@ -1,5 +1,5 @@
 {
-  "next": 18,
+  "next": 19,
   "history": [
     {
       "post": 1,
@@ -119,6 +119,13 @@
       "media_id": "18123185144284537",
       "permalink": "https://www.instagram.com/p/DfX6x4CgZPL/",
       "at": "2026-11-05T20:44:21+00:00"
+    },
+    {
+      "post": 18,
+      "topic": "FIFO vs weighted average",
+      "media_id": "18122360131946638",
+      "permalink": "https://www.instagram.com/p/DfaamXMlAyw/",
+      "at": "2026-11-06T20:00:52+00:00"
     }
   ]
 }
