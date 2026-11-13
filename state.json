@@ -1,5 +1,5 @@
 {
-  "next": 24,
+  "next": 25,
   "history": [
     {
       "post": 1,
@@ -161,6 +161,13 @@
       "media_id": "17954994909289565",
       "permalink": "https://www.instagram.com/p/DfnUcBJFCJd/",
       "at": "2026-11-11T20:17:09+00:00"
+    },
+    {
+      "post": 24,
+      "topic": "Fixed vs variable costs",
+      "media_id": "18113999723127767",
+      "permalink": "https://www.instagram.com/p/Dfsf0n7AYxh/",
+      "at": "2026-11-13T20:32:50+00:00"
     }
   ]
 }
