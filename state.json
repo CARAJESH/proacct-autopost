@@ -1,5 +1,5 @@
 {
-  "next": 28,
+  "next": 29,
   "history": [
     {
       "post": 1,
@@ -189,6 +189,13 @@
       "media_id": "18162055672511791",
       "permalink": "https://www.instagram.com/p/Df0e1AimqMT/",
       "at": "2026-11-16T22:58:05+00:00"
+    },
+    {
+      "post": 28,
+      "topic": "Margin vs markup",
+      "media_id": "18361037746218626",
+      "permalink": "https://www.instagram.com/p/Df5eTttD7GT/",
+      "at": "2026-11-18T21:29:48+00:00"
     }
   ]
 }
